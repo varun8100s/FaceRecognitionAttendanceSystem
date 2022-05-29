@@ -1,9 +1,8 @@
 # FaceRecognitionAttendanceSystem
 Marks attendance of subjects via face recognition 
 
-#install requirements using-
+# install requirements using-
 pip install requirements.txt
-
 run attendance.py in python
 
 
